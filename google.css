@@ -1,0 +1,18 @@
+.w{
+    text-align: center;
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 100px;
+}
+img{
+    height:100px;
+    width:100px;
+}
+body {
+  background-image: url("./wallpaperflare.com_wallpaper.jpg");
+}
+a{
+    font-weight:bold;
+    font-size:x-large;
+    color: aliceblue;
+}
